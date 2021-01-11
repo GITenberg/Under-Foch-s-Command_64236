@@ -1,5 +1,5 @@
 _repo: Under-Foch-s-Command_64236
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Paget, Walter
@@ -11,12 +11,17 @@ contributor:
     gutenberg_agent_id: '9756'
     url: http://www.gutenberg.org/2009/agents/9756
     wikipedia: https://en.wikipedia.org/wiki/Walter_Paget_(illustrator)
+covers:
+- cover_type: archival
+  image_path: 64236-h/images/cover.jpg
 creator:
   author:
     agent_name: Brereton, Captain F. S.
     gutenberg_agent_id: '52810'
     url: http://www.gutenberg.org/2009/agents/52810
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64236#Under-Foch-s-Command
 gutenberg_issued: '2021-01-08'
 gutenberg_type: Text
 identifiers:
